@@ -38,16 +38,16 @@ Start Menu.
 2. Download the Python 3 installer for Linux.
 3. Open a terminal window.
 4. Type
-  ````bash
-  bash Anaconda3-
-  ````
-  and then press tab. The name of the file you just downloaded should appear.
-  If it does not, navigate to the folder where you downloaded the 
-  file, for example with:
-  ````bash
-  cd Downloads
-  ````
-  Then, try again.
+    ````bash
+    bash Anaconda3-
+    ````
+    and then press tab. The name of the file you just downloaded should appear.
+    If it does not, navigate to the folder where you downloaded the 
+    file, for example with:
+    ````bash
+    cd Downloads
+    ````
+    Then, try again.
 5. Press enter. You will follow the text-only prompts. To move through 
 the text, press the space key. Type `yes` and press enter to approve the 
 license. Press enter to approve the default location for the files. Type 
