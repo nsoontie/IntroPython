@@ -58,8 +58,8 @@ license. Press enter to approve the default location for the files. Type
 Anaconda distribution the default Python).
 6. Close the terminal window.  
 7. Check the installation by opening a terminal window. Type jupyter 
-notebook and press enter. Your web browser should open a new Jupyter 
-notebook in the terminal window. 
+notebook and press enter. Your web browser should open Jupyter 
+notebook in a new tab. 
 
 
 Set up instructions adapted from [Software 
