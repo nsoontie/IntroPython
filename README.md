@@ -24,9 +24,9 @@ browser.
 2. Download the Python 3 installer for Windows.
 3. Install Python 3 using all of the defaults for installation except 
 make sure to check **Make Anaconda the default Python**.
-4. Check the installation by loading "Anaconda Prompt" from the Start 
-Menu. A terminal window should open. Type jupyter notebook and press 
-enter. Your web browser should open Jupyter notebook in a new tab.
+4. Check the installation by loading "Anaconda Navigator" from the 
+Start Menu. Once it is loaded, click "Launch" in the jupyter notebook 
+dialogue. Your web browser should open Jupyter notebook in a new tab.
 
 #### Mac Users
 1. Open http://continuum.io/downloads with your web browser.
