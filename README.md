@@ -8,7 +8,7 @@ computing. The Anaconda distribution of Python automatically installs
 many packages useful for scientific computing.
 
 ### Web Browser
-We will be using the Jupyter notebook to use Python in a web browser. 
+We will be using the Jupyter Notebook to use Python in a web browser. 
 For this to work, you will need a reasonably up-to-date browser. The 
 current versions of Chrome, Firefox, and Safari are 
 [supported](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility)
@@ -25,8 +25,8 @@ browser.
 3. Install Python 3 using all of the defaults for installation except 
 make sure to check **Make Anaconda the default Python**.
 4. Check the installation by loading "Anaconda Navigator" from the 
-Start Menu. Once it is loaded, click "Launch" in the Jupyter notebook 
-dialogue/box. Your web browser should open Jupyter notebook in a new 
+Start Menu. Once it is loaded, click "Launch" in the Jupyter Notebook 
+dialogue/box. Your web browser should open Jupyter Notebook in a new 
 tab.
 
 #### Mac Users
@@ -34,7 +34,7 @@ tab.
 2. Download the Python 3 installer for OS X.
 3. Install Python 3 using all of the defaults for installation.
 4. Check the installation by opening a terminal window. Type `jupyter 
-notebook` and press enter. Your web browser should open Jupyter notebook 
+notebook` and press enter. Your web browser should open JupyterNnotebook 
 in a new tab.
 
 #### Linux Users
@@ -60,7 +60,7 @@ Anaconda distribution the default Python).
 6. Close the terminal window.  
 7. Check the installation by opening a terminal window. Type `jupyter 
 notebook` and press enter. Your web browser should open Jupyter 
-notebook in a new tab. 
+Notebook in a new tab. 
 
 
 Set up instructions adapted from [Software 
